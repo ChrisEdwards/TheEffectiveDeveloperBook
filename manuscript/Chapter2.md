@@ -1,5 +1,5 @@
 # Chapter 2 : Foundations
-
+This chapter introduces some very fundamental concepts for those who may not be familiar with them. If you are familiar with these concepts, please feel free to skip this chapter. 
 
 ## Object Oriented Programming
 
@@ -10,21 +10,24 @@ By consolidating (I mean, encapsulating) the logic and data, we can hide some of
 
 In OO programming, you encapsulate logic and data into objects. An object consists of data (properties/fields/etc) and logic (functions/methods). Some of the properties and fields are public, meaning they can be seen and accessed from code outside the object. However, some are private--only accessible by code running inside the object. 
 
-The principle of encapsulation suggests that we make private any methods or data that are only used by logic inside the object. Only make public anything that needs to be accessible by logic outside the object.
+The principle of encapsulation suggests that we make private any methods or data that are only used within the object. Only make public anything that needs to be accessible by logic outside the object.
 
 Let's look at an example:
 <example here>
 
-[^Collins2009]: Collins English Dictionary - Complete & Unabridged 10th Edition; 2009 © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009
+(This paragraph probably doesn't belong here)
+Wikipedia defines information hiding as “the hiding of design decisions in a computer program that are most likely to change” [^WikipediaInfoHiding]. This definition gives some insight into good object design. Hide things that are likely to change often. We'll dive into why this is a good idea in a later chapter.
 
-http://en.wikipedia.org/wiki/Information_hiding
-“The hiding of design decisions in a computer program that are most likely to change” - Wikipedia
+[^Collins2009]: Collins English Dictionary - Complete & Unabridged 10th Edition; 2009 © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009
+[^WikipediaInfoHiding]: http://en.wikipedia.org/wiki/Information_hiding
 
 ### Polymorphism
+Polymorphism refers to something taking many forms. In object oriented programming, it refers to one type of object that can take many forms (subtypes).
 Replace an object of a class with an object of its subclasses
 Abstraction
     Code against an interface, not implementation
     Depend on abstractions, not concretions
+		Class is not know at compile time, but behaves at run time based on that actual object's class.
 
 ### Low Coupling / High Cohesion
 Low Coupling

@@ -8,9 +8,13 @@ So what makes a developer great? I have realized several attributes that are com
 - Communication Skills
 
 ## Passion
-If you really want to be good at what you do, you have to love doing it. You simply will not have the motivation to learn or take your skills to the next level if you just don't care that much about your job. However, if you love what you do, then you will have an inherent drive to hone your skills, learn more and get better. This gives you a distinct advantage over other developers. 
+If you really want to be good at what you do, you have to love doing it. You simply will not have the motivation to learn and take your skills to the next level if you aren't excited about your job. However, if you love what you do, you will have an inherent drive to hone your skills, learn more and get better. This gives you a distinct advantage over other developers. 
 
-A word of caution though...do not let your passion for work take precedence over other important areas of your life. Family, friends, church, etc. are essential to a balanced life. Happiness cannot come from work alone. If you put all your eggs in that basket, and your personal life suffers, you will be miserable no matter how well you do at work. A very good friend of mine said something to me that I will never forget. "I work to live, I don't live to work". This should be true for all of us. Time away from the computer with our families or friends is important. Never forget that.
+When I interview developers, one of the most important things I look for is passion. 
+
+A word of caution though...do not let your passion for work drown out other important areas of your life. Balance is important. Family, friends, church, etc. are essential for happiness. It can't come from work alone.
+
+I will never forget what a wise friend once told me, "I work to live, I don't live to work". This should be true for all of us. Time away from the computer with our families or friends is important. Never forget that.
 
 ## Continuous Learning
 If you truly have a passion for your work, it will drive you to continuously learn more and get better at what you do. The software development industry changes fast. You can never assume that you have finally "arrived" and stop learning thinking you already know all you need to know about a technology. In this industry, your knowledge will soon be antiquated. New technologies are introduced and old ones are deprecated constantly. You must work hard to keep up with the pace of change. If not, you will be left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
