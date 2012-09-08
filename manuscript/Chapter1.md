@@ -17,12 +17,16 @@ A word of caution though...do not let your passion for work drown out other impo
 I will never forget what a wise friend once told me, "I work to live, I don't live to work". This should be true for all of us. Time away from the computer with our families or friends is important. Never forget that.
 
 ## Continuous Learning
-If you truly have a passion for your work, it will drive you to continuously learn more and get better at what you do. The software development industry changes fast. You can never assume that you have finally "arrived" and stop learning thinking you already know all you need to know about a technology. In this industry, your knowledge will soon be antiquated. New technologies are introduced and old ones are deprecated constantly. You must work hard to keep up with the pace of change. If not, you will be left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
+A healthy passion for your work, drives you to continuously learn more and improve your skills. (elaborate)
+
+>_The effective developer is committed to continuous learning--deliberately acquiring new skills and refining existing ones._
+
+The software development industry evolves constantly. Technologies change quickly--what you know today will be obsolete tomorrow.  You must constantly refine your skills and learn new ones or risk being left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
 
 So how can you keep up with all the changes and new technologies in this fast changing industry? Here are some ideas:
 
 ### Read Books
-Reading books is one of the oldest ways to learn, and it is just as applicable today as ever. Books are a great way to get a full understanding of a particular area or technology. They are usually structured in such that they cover all aspects of a topic. If you are new to a technology, grabbing a good book on the subject is one of the best ways to get up to speed. Books often make an assumption that the reader has a certain level of knowledge, so the book fills all the gaps that are necessary and tries to present the material in a certain order that will make sense to the reader and build upon concepts progressively. Books are great to establish an initial foundation of knowledge that you can build upon.
+Reading books is one of the oldest ways to learn, and it is applicable now more than ever. Books are a great way to get a full understanding of a particular area or technology. They are usually structured in such that they cover all aspects of a topic. If you are new to a technology, grabbing a good book on the subject is one of the best ways to get up to speed. Books often make an assumption that the reader has a certain level of knowledge, so the book fills all the gaps that are necessary and tries to present the material in a certain order that will make sense to the reader and build upon concepts progressively. Books are great to establish an initial foundation of knowledge that you can build upon.
 
 #### Select Books Carefully
 How do you select which books to read? Time is precious. If you are going to take the time to read a book, make sure it's a good one. Research what others have said about books in the area you are seeking to learn. Find out what books are the "must reads" in that area and pick them up and read them. It is said that the most successful people read and average of ??? books per year (Need citation). 
