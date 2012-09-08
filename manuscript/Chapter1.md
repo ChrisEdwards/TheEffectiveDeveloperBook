@@ -8,7 +8,11 @@ So what makes a developer great? I have realized several attributes that are com
 - Communication Skills
 
 ## Passion
-If you really want to be good at what you do, you have to love doing it. You simply will not have the motivation to learn and take your skills to the next level if you aren't excited about your job. However, if you love what you do, you will have an inherent drive to hone your skills, learn more and get better. This gives you a distinct advantage over other developers. 
+> _The effective developer is passionate about his work. He loves doing it, therefore he does it well._
+
+If you really want to be good at something, you have to love doing it. You simply won't be motivated to take your skills to the next level if it doesn't excite you. But, a healthy passion for development will drive you to hone your skills, take pride in your work and do your best. This gives you a distinct advantage over other developers. 
+
+You see, we are inclined to do what we enjoy. If we enjoy our work, we will naturally read about it, practice it and think about it, all the time--all because we enjoy it. My idea of relaxing is curling up with a good tech book, reading blogs, writing this book, etc. I love what I do and I do what I love. This is the biggest secret to my success.
 
 When I interview developers, one of the most important things I look for is passion. 
 
