@@ -8,22 +8,26 @@ So what makes a developer great? I have realized several attributes that are com
 - Communication Skills
 
 ## Passion
-> _The effective developer is passionate about his work. He loves doing it, therefore he does it well._
+> _The effective developer is passionate about his work. He loves it and is therefore driven to do it well._
 
-If you really want to be good at something, you have to love doing it. You simply won't be motivated to take your skills to the next level if it doesn't excite you. But, a healthy passion for development will drive you to hone your skills, take pride in your work and do your best. This gives you a distinct advantage over other developers. 
+If you really want to be great at something, you have to love it. How can you be motivated to excel at something you don't enjoy? A healthy passion provides a wellspring of motivation. It drives you to do your best, and constantly improve your best. Just think of the advantage this gives you.
 
-You see, we are inclined to do what we enjoy. If we enjoy our work, we will naturally read about it, practice it and think about it, all the time--all because we enjoy it. My idea of relaxing is curling up with a good tech book, reading blogs, writing this book, etc. I love what I do and I do what I love. This is the biggest secret to my success.
+You see, we tend to do the things we enjoy. We think about them, read about them, and practice them--because we like them; we call them hobbies. A passionate developer's hobby is his job. Because he loves it, he is driven to do it well. As you can guess, I am passionate about software development. I love reading a good tech book or blog, writing code or writing this book. All this sharpens my skills, and it comes naturally to me. I love what I do and I do what I love. This is the biggest secret to my success.
 
-When I interview developers, one of the most important things I look for is passion. 
+When I interview developers, one of the most important things I look for is passion. I will hire a passionate developer who is lacking technically. I know their passion will allow them to overcome those deficiencies. 
 
-A word of caution though...do not let your passion for work drown out other important areas of your life. Balance is important. Family, friends, church, etc. are essential for happiness. It can't come from work alone.
+Passion has a profound affect on your ability to learn and grow as a developer. I believe it is one of the strongest assets a developer can have.
 
-I will never forget what a wise friend once told me, "I work to live, I don't live to work". This should be true for all of us. Time away from the computer with our families or friends is important. Never forget that.
+> *Sidebar: A warning about passion!*
+> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
+> 
+> I will never forget what a wise friend once told me. He said, "I work to live, I don't live to work". This should be true for all of us. 
 
 ## Continuous Learning
+>_The effective developer is committed to continuous learning--deliberately acquiring new skills and refining existing ones._
+
 A healthy passion for your work, drives you to continuously learn more and improve your skills. (elaborate)
 
->_The effective developer is committed to continuous learning--deliberately acquiring new skills and refining existing ones._
 
 The software development industry evolves constantly. Technologies change quickly--what you know today will be obsolete tomorrow.  You must constantly refine your skills and learn new ones or risk being left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
 
