@@ -10,16 +10,17 @@ So what makes a developer great? I have realized several attributes that are com
 ## Passion
 > _The effective developer is passionate about his work. He loves what he does and is therefore driven to do it well._
 
-If you really want to be great at something, you have to love doing it. How can you be motivated to excel at something you don't enjoy? A healthy passion provides a wellspring of motivation. It drives you to do your best, and constantly improve your best. Just think of the advantage this gives you.
+If you really want to be great at something, you have to love doing it. How can you be motivated to excel at something you don't enjoy? A healthy passion for your work provides a wellspring of motivation. It drives you to do your best, and constantly improve your best. Just think of the advantage this gives you.
 
 You see, we tend to do the things we enjoy. We think about them, read about them, and practice them--because we like them; we call them hobbies. A passionate developer's hobby is his job. Because he loves it, he is driven to do it well. As you can guess, I am passionate about software development. I love reading a good tech book or blog, writing code or writing this book. These activities sharpen my skills, but they don't feel like work. I enjoy them and they come naturally to me. I love what I do and I do what I love. This is the biggest secret to my success.
 
-> *Sidebar: A warning about passion!*
-> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place..
+> **Sidebar: A warning about passion!**
+>
+> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
 > 
 > I will never forget what a wise friend once told me. He said, "I work to live, I don't live to work". This should be true for all of us.
 
-When I interview developers, one of the most important things I look for is passion. I will hire a passionate developer who is lacking technically. I know their passion more than compensates for their deficiencies. Because passion can have such a profound affect on the ability to learn and grow as a developer, I believe it is one of the strongest assets a developer can have.
+When I interview developers, one of the most important things I look for is passion. I will hire a passionate developer who is lacking technically. I know their passion more than compensates for their deficiencies. Because passion can have such a profound affect on the ability to learn and grow as a developer, I believe it is one of the strongest assets you can have.
  
 ## Continuous Learning
 >_The effective developer is committed to continuous learning--deliberately acquiring new skills and refining existing ones._
@@ -27,7 +28,7 @@ When I interview developers, one of the most important things I look for is pass
 A healthy passion for your work, drives you to continuously learn more and improve your skills. (elaborate)
 
 
-The software development industry evolves constantly. Technologies change quickly--what you know today will be obsolete tomorrow.  You must constantly refine your skills and learn new ones or risk being left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
+The software development industry evolves constantly. It's not easy to keep up. Technologies change quickly--what you know today will be obsolete tomorrow.  You must constantly refine your skills and learn new ones or risk being left behind. If you do not enjoy reading, listening to others, and learning from others, you will be at a huge disadvantage to those who do.
 
 So how can you keep up with all the changes and new technologies in this fast changing industry? Here are some ideas:
 
