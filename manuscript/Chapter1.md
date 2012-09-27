@@ -8,6 +8,126 @@ So what makes a developer great? I have realized several attributes that are com
 - Communication Skills
 
 ## Passion
+Passion is a developer's strongest asset. There are many other positive attributes you can have as a developer, but passion enhances them all. Its gushes forth motivation to improve all the other attributes. Of all the attributes, none of them have can have such a profound affect on your career as passion.
+
+Let's look at an example to show you what I mean.
+
+Meet John. John is good at programming. He comes in to work at 8 and leaves at 5. He writes quality code and gets the job done. He spends lots of time with his family, and enjoys reading fiction and playing computer games in his free time. He got to level 80 in three weeks in World of Warcraft.
+
+Now meet Bob. Bob also works 8-5. On his commute to and from work he listens to a podcast on Agile development practices. He usually spends his lunch hour reading a few blogs or checking out a screencast on some new framework. On Wednesdays he attends a lunch-n-learn with some other developers to discuss the unit testing book they are reading together. When he gets home, he eats supper with his family and spends some time with them before putting his kids to bed. He spends some time with his wife, then reads some more in the unit testing book or codes some new features for an open source project he's been contributing to. 
+
+Who do you think is going to be more effective in their job? Who would you want on your team? Who would you hire? Without even describing Bob's code quality or work ethic, did you assume that he is the better developer? Why?
+
+### Benefits of passion
+Passion drives so many positive behaviors. People with passion perform better without even thinking about it. The benefits of passion are great..and contribute to making the person great. 
+
+The developer with passion has a great advantage over other developers because he enjoys what he does. When something becomes fun, it ceases to be work. He will put in the extra hours to learn something without thinking about it, but it's not work. It's fun. Rather than playing computer games, he will further his career. You see, the passionate developer's hobby is his job.
+
+Passion also provides a great advantage in times of difficulty. When the going gets hard, passion provides the motivation to hang in there and tough it out. It stops you from giving up on becoming great.
+
+### What is passion?
+So you want to be like Bob. You want that kind of driving passion? First let's look at what passion is. It's pretty simple really. Its a desire to do something. It's a burning desire to do it. (does this even belong)
+
+Do I have to be born with passion?
+You are probably wondering, "Do I have to be born with passion? Or can I cultivate it?" I think the answer is obvious. No one is born passionate about something. They acquire that passion somewhere along the way. It wasn't until I was 12 or so that I began to have a passion for computers (and later, software development). Prior to that, I didn't know anything about computers, so how could I be passionate about it?
+
+### How do I cultivate passion?
+So we see that we aren't born with passion, so how to you get it? How do you cultivate it? Let's begin with a story.
+
+When Billy was little, he took guitar lessons. He liked the guitar, but when he played it, it didn't sound to good. It was a lot of work, and he quickly got bored of it and gave up. Later in life, he had a friend that played very well, so Billy decided to try again (with a little encouragement from his friend). The first few weeks weren't so fun. However, after learning how to play his favorite song, (song?), he found it was much more fun. Anytime he got discouraged and had a hard time playing something, he would just break out singing the chorus (to his dog's dismay) as he played the song again. This got him though the more difficult lessons and Billy became a very accomplished guitar player.
+
+So, did you notice the turning point in Billy's guitar career? Everything changed when he started to enjoy playing it. It's hard to enjoy foul notes and poor rhythm. But once you acquire some skills and get a little better, your enjoyment increases. When that happens, it drives you to practice and learn more. The effect is cyclical and builds upon itself. This is how passion works. It's a self-feeding (something).
+
+Knowing this, I think we can now look at some logical ways to cultivate passion.
+
+#### Things to do 
+*Find something fun.* Because enjoyment is a key part of passion, you need to find some aspect of software development that you really enjoy. Do you like working on the UI? How about writing tests? Try to spend some time on the things you enjoy. If you can't find time to do those things on the job, try them at home or over your lunch hour. Put some joy in your job.
+
+*Experiment* Try some different ways of doing things you already do. Finding a better way to do something gives you a boost of excitement and also helps expand your understanding of whatever you are doing. 
+
+*Learn something new.* Learn a new framework, or new language. This helps get you interested and engages your thinking. It may change the way you think about existing problems you have to solve at work. Learning breeds excitement…which feeds passion in a huge way.
+
+*Change projects/job* Probably the first thing you need to ask is "Am I happy here?" or "Do I even like software development". While passion doesn't require you to love it to start, if you don't even like it a little bit, you will be hard pressed to gain the kind of passion I am talking about. Perhaps you need to change careers. Think about where you work now. Do you like the company? Do you have opportunities to work on something "fun"? If not, maybe you need to find a new place to work. 
+
+*Deliberate Practice*
+This topic could fill a chapter in itself, but I present it here because it helps feed passion. If you practice your craft, you will get better. Getting better feeds your confidence which feeds your enjoyment which feeds your passion which feeds your desire to practice more. You get the picture.
+
+The bottom line is what my dad always used to tell me (though I was tired of hearing it), "Practice makes perfect." Well, we may not be seeking perfection, we do want to get better. Practice makes you better. If you want to be effective, you have to constantly improve.
+
+Deliberate Practice refers to your ability to intentionally practice with the goal of getting better. Practice those things that are impeding you from being more effective. There are many tools to help you. There are Code Katas available that have you solve a problem in code, as a practice exercise. You can find some at (urls).
+
+*Know/Avoid Draining Weaknesses*
+Know what drains you
+Minimize time on actions that drain you.
+Difference between weakness you need to work on and weakness that drains you.
+Examples:
+- Difficult Co-workers
+- Mundane Tasks (automate)
+- Working in an area you aren't excited about (UI vs. Business Logic)
+
+*Be Enthusiastic*
+Let your passion be seen by others. Its infectious. You may influence others to be as excited as yourself. 
+
+*Try to be around other enthusiastic people*
+Try to be around other enthusiastic people, because it will help you be more excited. Passion feeds passion. A roomful of passionate people is a sight to behold. Here are some ideas of ways to surround yourself with other passionate people.
+- Attend user groups or conferences
+- Read blogs
+- Follow passionate people on twitter.
+
+*Seek role models*
+Look for someone who can serve as a role model. Someone who has achieved what you seek to achieve and learn from them. Someone you can look up to. How did they get where they are? Can you follow in their footsteps. 
+
+
+    Find others to encourage/praise you
+    Being around these kind of people motivate you
+    The opposite kind of people will drain you.
+Be obsessed?
+
+*Focus on strengths*
+I used to always think I had to focus on the areas I am weakest in. And I do feel this is appropriate in some areas, but one thing that feeds passion is working in an area of strength. If you feel confident, you are more likely to feel fulfilled. Try to work on things that fulfill you. Try to work in an area of strength. 
+
+If you are unsure where your strengths lie, here are some questions that may lead you to it.
+- What fulfills you?
+- What to others tend to compliment you on?
+- What are you feel most confident doing?
+
+The areas I am talking about here (for focus) are smaller subareas of your career focus. For instance UI vs. backend code, Security vs. application code, etc. All of these areas may fall under the role of a software developer, but there is leeway in that title that allows you to focus on many different areas. Some will feed your passion. Some will drain it. Sometimes you will have a choice. When you do, choose wisely.
+
+As a side note, be aware that working in an area of weakness is necessary to grow into a fully effective developer. You need to constantly be learning new things. The areas of weakness I am referring to here are areas that drain your passion, not areas of ignorance. Be deliberate about eliminating ignorance by learning. Expand...
+    What fulfills you
+    What to people compliment you on?
+    Not necessarily what you are already good at.
+
+#### Things to avoid
+Just as there are things that feed your passion, there are some that drain it. Be aware of these things and avoid them when possible. Here is a possible list:
+
+*Working in an area of weakness*
+You need to feel confident to spark your passion. At the least, you need to feel as if you are growing in the area you are working in. However, some areas are just plain weaknesses that you are uncomfortable and unhappy working in. For instance, if I were placed in a sales position where I had to talk to people day in and day out to make sales, I would fail. I may learn to get better…but why would I want to do that? Its an area of weakness that I have no intention of improving in. It saps my passion.
+
+Don't confuse what I am saying here. There are weaknesses  you will have that you want to work on. And working on them will take you out of your comfort zone. This is called learning and growing. It's good for you. This is not a weakness to avoid. The kind of weaknesses I am referring to here are those that really pull you down and you have decided not to work on. Like taking tech support calls, or writing pure database code. If you really don't want to do these things because you dread going to work every day when you know you have to do them…its time for a change.
+
+*Difficult relationships at work*
+This could be a coworker or your boss. One difficult personality can bring down a whole team. Seek to change teams or managers if you need to. Worst case scenario, its time to get your resume ready.
+
+*Too much pressure/ stress* We all find ourselves in this situation at one time or another in our career. Under stress, you don't have time to do anything but work. There is no learning, and you aren't given time to do a a good job you can feel good about. Hence, your passion will suffer. 
+
+If you find yourself in this scenario, try to step back and objectively analyze the situation. Is it temporary? If so, just hang in there and keep positive. If it's a persistent problem then determine if there's something you can do to change the organization. Talk with your manager/team lead about it. As a last resort…yep…you guessed it…resume time.
+
+*Working on something you don't enjoy* So you hate working on UI code, and wouldn't you know it? That's what you are stuck doing day in and day out. I have come across many people in the same situation. I have met many of them in interviews…as they were looking for a way out. Do what you can to get reassigned. Realize that sometimes you have to work on stuff you don't like…just don't let it become your permanent job description.
+
+*Lack of control over your work* We need freedom to express ourselves in code. Sometimes we have oppressive co-workers or managers that tightly control every aspect of our job that we feel more like slaves than employees. Flee this. Some control is ok, but if it stifles your ability to work, seek a remedy.
+    What you work on
+    How you work
+    When you work
+    How long you work
+
+*Boredom* Sometimes, you just aren't challenged. Perhaps you have solved all the problems so well and automated everything so perfectly that the project practically runs itself. What was once exciting is now so simple its boring. Time to move on.
+
+*Negativity/Discouragement* You really need to be around people that encourage you and push you to be better. If you are in a negative environment, or around negative co-workers, it will affect you. Do all you can to get away from these kind of projects/people.
+
+Warning: Passion can lead to imbalance
+
+----
 > _The effective developer is passionate about his work. He loves what he does and is therefore driven to do it well._
 
 If you really want to be great at something, you have to love doing it. How can you be motivated to excel at something you don't enjoy? A healthy passion for your work provides a wellspring of motivation. It drives you to do your best, and constantly improve your best. Just think of the advantage this gives you.
