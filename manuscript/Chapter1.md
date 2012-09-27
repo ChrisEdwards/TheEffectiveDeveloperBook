@@ -47,7 +47,8 @@ Knowing this, I think we can now look at some logical ways to cultivate passion.
 
 *Learn something new.* Learn a new framework, or new language. This helps get you interested and engages your thinking. It may change the way you think about existing problems you have to solve at work. Learning breeds excitement…which feeds passion in a huge way.
 
-*Change projects/job* Probably the first thing you need to ask is "Am I happy here?" or "Do I even like software development". While passion doesn't require you to love it to start, if you don't even like it a little bit, you will be hard pressed to gain the kind of passion I am talking about. Perhaps you need to change careers. Think about where you work now. Do you like the company? Do you have opportunities to work on something "fun"? If not, maybe you need to find a new place to work. 
+*Change projects/job* 
+Probably the first thing you need to ask is "Am I happy here?" or "Do I even like software development". While passion doesn't require you to love it to start, if you don't even like it a little bit, you will be hard pressed to gain the kind of passion I am talking about. Perhaps you need to change careers. Think about where you work now. Do you like the company? Do you have opportunities to work on something "fun"? If not, maybe you need to find a new place to work. 
 
 *Deliberate Practice*
 This topic could fill a chapter in itself, but I present it here because it helps feed passion. If you practice your craft, you will get better. Getting better feeds your confidence which feeds your enjoyment which feeds your passion which feeds your desire to practice more. You get the picture.
