@@ -1,6 +1,6 @@
 # Chapter 1: What makes a great developer?
 
-So what makes a developer great? I have realized several attributes that are common to truly great developers.
+So what makes a developer great? Here are some attributes I find common in truly great developers.
 
 - Passion 
 - Continuous Learning
@@ -8,13 +8,18 @@ So what makes a developer great? I have realized several attributes that are com
 - Communication Skills
 
 ## Passion
-Passion is a developer's strongest asset. There are many other positive attributes you can have as a developer, but passion enhances them all. Its gushes forth motivation to improve all the other attributes. Of all the attributes, none of them have can have such a profound affect on your career as passion.
+Passion is a developer's strongest asset. It motivates all kinds of positive behavior. Nothing drives effectiveness like passion.
 
-Let's look at an example to show you what I mean.
+Meet Bill. Bill works 9-5. He's a hard worker. After work he spends time with his family then reads some fiction or raids a dungeon with his online friends. Most often the latter. Last night he reached level 80 with his mage. He fell asleep thinking about how close he is to getting the next level armor for his mage.
 
-Meet John. John is good at programming. He comes in to work at 8 and leaves at 5. He writes quality code and gets the job done. He spends lots of time with his family, and enjoys reading fiction and playing computer games in his free time. He got to level 80 in three weeks in World of Warcraft.
+Now meet Bob. Bob also works 9-5 and is a hard worker. Bob listens to software development podcasts on his daily commute. He spends lunch reading blogs or technical articles, except Wednesdays when he meets with co-workers who are going through a TDD book together. After work he spends time with the family then either reads a programming book or writes some code for an open source project he's contributing to. Last night he researched a new mocking framework because he heard a co-worker mention it. He even got some sample code up and running. Bob fell asleep weighing the pros and cons of using the framework on an upcoming project.
 
-Now meet Bob. Bob also works 8-5. On his commute to and from work he listens to a podcast on Agile development practices. He usually spends his lunch hour reading a few blogs or checking out a screencast on some new framework. On Wednesdays he attends a lunch-n-learn with some other developers to discuss the unit testing book they are reading together. When he gets home, he eats supper with his family and spends some time with them before putting his kids to bed. He spends some time with his wife, then reads some more in the unit testing book or codes some new features for an open source project he's been contributing to. 
+Consider John and Bob. Who would you say is more passionate?  Why? 
+
+Who would you want on your team?
+
+Did you even notice I didn't say anything about their code quality? Did you assume one is better?
+
 
 Who do you think is going to be more effective in their job? Who would you want on your team? Who would you hire? Without even describing Bob's code quality or work ethic, did you assume that he is the better developer? Why?
 
@@ -135,11 +140,11 @@ If you really want to be great at something, you have to love doing it. How can 
 
 You see, we tend to do the things we enjoy. We think about them, read about them, and practice them--because we like them; we call them hobbies. A passionate developer's hobby is his job. Because he loves it, he is driven to do it well. As you can guess, I am passionate about software development. I love reading a good tech book or blog, writing code or writing this book. These activities sharpen my skills, but they don't feel like work. I enjoy them and they come naturally to me. I love what I do and I do what I love. This is the biggest secret to my success.
 
-> **Sidebar: A warning about passion!**
->
-> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
-> 
-> I will never forget what a wise friend once told me. He said, "I work to live, I don't live to work". This should be true for all of us.
+A> **Sidebar: A warning about passion!**
+A>
+A> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
+A> 
+A> I will never forget what a wise friend once told me. He said, "I work to live, I don't live to work". This should be true for all of us.
 
 When I interview developers, one of the most important things I look for is passion. I will hire a passionate developer who is lacking technically. I know their passion more than compensates for their deficiencies. Because passion can have such a profound affect on the ability to learn and grow as a developer, I believe it is one of the strongest assets you can have.
  
