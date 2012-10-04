@@ -1,6 +1,7 @@
 Frontmatter.txt
 Preface.md
 Mainmatter.txt
+Part1.md
 Chapter1.md
 Chapter2.md
 Chapter3.md

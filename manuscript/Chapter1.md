@@ -14,14 +14,13 @@ Meet Bill. Bill works 9-5. He's a hard worker. After work he spends time with hi
 
 Now meet Bob. Bob also works 9-5 and is a hard worker. Bob listens to software development podcasts on his daily commute. He spends lunch reading blogs or technical articles, except Wednesdays when he meets with co-workers who are going through a TDD book together. After work he spends time with the family then either reads a programming book or writes some code for an open source project he's contributing to. Last night he researched a new mocking framework because he heard a co-worker mention it. He even got some sample code up and running. Bob fell asleep weighing the pros and cons of using the framework on an upcoming project.
 
+(Might be overdoing Bob..sad person? Needs other interests. People can't relate to Bob, but more to Bill. People don't want to be like Bob. Make Bob more like me. Not exclusive to software development. Too nerdy. Need to express personality. Perhaps carry character through scenarios and stories through the book. Maybe start Bob off with less technical skills but more soft skills like passion…we follow Bob on his journey grow into an effective developer. Depict him as a likable guy. Can show Bob working for a bad leader with poor soft skills.)
+
 Consider John and Bob. Who would you say is more passionate?  Why? 
 
 Who would you want on your team?
 
 Did you even notice I didn't say anything about their code quality? Did you assume one is better?
-
-
-Who do you think is going to be more effective in their job? Who would you want on your team? Who would you hire? Without even describing Bob's code quality or work ethic, did you assume that he is the better developer? Why?
 
 ### Benefits of passion
 Passion drives so many positive behaviors. People with passion perform better without even thinking about it. The benefits of passion are great..and contribute to making the person great. 
@@ -33,8 +32,8 @@ Passion also provides a great advantage in times of difficulty. When the going g
 ### What is passion?
 So you want to be like Bob. You want that kind of driving passion? First let's look at what passion is. It's pretty simple really. Its a desire to do something. It's a burning desire to do it. (does this even belong)
 
-Do I have to be born with passion?
-You are probably wondering, "Do I have to be born with passion? Or can I cultivate it?" I think the answer is obvious. No one is born passionate about something. They acquire that passion somewhere along the way. It wasn't until I was 12 or so that I began to have a passion for computers (and later, software development). Prior to that, I didn't know anything about computers, so how could I be passionate about it?
+### Do I have to be born with passion?
+You are probably wondering, "Do I have to be born with passion? Or can I cultivate it?" I think the answer is obvious. No one is born passionate about something. They acquire that passion somewhere along the way. It wasn't until I was 12 or so that I began to have a passion for computers (and later, software development). Prior to that, I didn't know anything about computers, so how could I be passionate about it? So no, its not something you're born with. And yes, you can cultivate your passion.
 
 ### How do I cultivate passion?
 So we see that we aren't born with passion, so how to you get it? How do you cultivate it? Let's begin with a story.
@@ -142,7 +141,7 @@ You see, we tend to do the things we enjoy. We think about them, read about them
 
 A> **Sidebar: A warning about passion!**
 A>
-A> Please be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
+A> Be aware that passion can lead to an unbalanced life. Its easy to spend too much time on something you love doing. Resist that temptation. Don't neglect the important areas of your life, like family, friends, church, etc. These are essential for happiness, and they are far more important than work. It's tempting to believe that happiness can come from work alone. However, that kind of happiness is fleeting; it's a lie; burnout and sadness soon take its place.
 A> 
 A> I will never forget what a wise friend once told me. He said, "I work to live, I don't live to work". This should be true for all of us.
 
@@ -224,7 +223,7 @@ Humility is one of the most underrated, yet essential attributes of an effective
 
 > The effective developer is humble.
 
-Humility is the opposite of pride. A prideful person thinks they already know everything. The humble person listens to others because he realizes that they may have an idea that is better than his own. A prideful person is argumentative and doesn't take suggestions or criticism well. The humble person considers the position of others in design discussions and rarely gets into arguments. He also views criticism as constructive and an opportunity to improve himself. A prideful person seeks to place blame when something goes wrong and refuses to admit when they have made a mistake and accept responsibility for it. The humble person seeks the solution to a problem rather than where to place blame, and easily accepts responsibility for they mistakes they have made and openly admits to them. 
+Humility is the opposite of pridefulness (is pride the right word?). A prideful person thinks they already know everything. The humble person listens to others because he realizes that they may have an idea that is better than his own. A prideful person is argumentative and doesn't take suggestions or criticism well. The humble person considers the position of others in design discussions and rarely gets into arguments. He also views criticism as constructive and an opportunity to improve himself. A prideful person seeks to place blame when something goes wrong and refuses to admit when they have made a mistake and accept responsibility for it. The humble person seeks the solution to a problem rather than where to place blame, and easily accepts responsibility for they mistakes they have made and openly admits to them. 
 
 Pride also stifles the ability to learn. Consider this analogy. A sick person cannot be helped by a doctor if they don't think they are sick. They will either never go to the doctor, or won't follow his advice. Likewise, the biggest barrier to learning the truth is the assumption that you already know it.
 
@@ -232,25 +231,25 @@ One of the primary traits of pride is self-preservation. That is the downfall of
 
 A great definition of humility is "placing the needs of others before my own."...it is "other-centeredness" as opposed to self-centeredness. The humble person places the interests of the business and the needs of others before their own. This is why a humble person can easily admit when they have made a mistake. Doing so is the quickest way to solve the problem at hand rather than wasting time playing the blame game. Not only this, but a humble person is quick to point out their own mistakes to others so they they won't make the same mistakes. Not only can you learn from your mistakes, but so can others.
 
-In design discussions, it is vital that all members of the team are free to discuss and debate alternatives without getting into an argument. It is equally important that all team members are able to speak freely. When an argumentative person is placed in the team, they can turn these design discussions into arguments, or they can dominate the conversations and not let others speak up. Either way, it stifles productivity--team members stop contributing their ideas, either for fear of rejection, or being drug into a lengthy conversation that they cannot escape from. 
+In design discussions, it is vital that all members of the team are free to discuss and debate alternatives without getting into an argument. It is equally important that all team members are able to speak freely. When an argumentative person is placed in the team, they can turn these design discussions into arguments, or they can dominate the conversations and not let others speak up. Either way, it stifles productivity--team members stop contributing their ideas, either for fear of rejection, or being drawn into a lengthy conversation that they cannot escape from. 
 
-The damage this kind of personality inflicts on the team can easily go unnoticed. Unless you know what to look for, you may not realize why things are going so poorly on the team. I have been amazed (on more than one occasion) how productive our team became when one key person was removed from the team. Things just seemed to smooth out after their exit. 
+The damage this kind of personality inflicts on the team can easily go unnoticed. Unless you know what to look for, you may not realize why things are going so poorly on the team. I have been amazed (on more than one occasion) how productive our team became when one key person was removed from the team. Things just smoothed out after their exit. 
 
-Don't be the bad egg that poisons the team. Make sure you are sufficiently humble. Be a blessing to your team, not a curse.
+Don't be the bad egg that poisons the team. Be a blessing to your team, not a curse.
 
 ## Communication Skills
-Another important, yet often overlooked, trait of a great developer is communication skills. If you cannot clearly communicate your ideas, how can you expect them to be accepted? The importance of clear communication amongst the team in a software development project cannot be emphasized enough. Just think of the kinds of issues caused by miscommunication: Bugs are introduced due to misunderstood requirements. Arguments ensue because developers misunderstand one another. Rework must be done because standards or policies were not clearly communicated....and the list can go on and on...
+Another important, yet often overlooked, trait of a great developer is communication. If you cannot clearly communicate your ideas, how can you expect them to be accepted? The importance of clear communication amongst the team in a software development project cannot be emphasized enough. Consider the many issues caused by miscommunication: Bugs are introduced due to misunderstood requirements. Arguments ensue because developers misunderstand one another. Rework must be done because standards or policies were not clearly communicated....and the list can go on and on...
 
 Poor communication can cause problems that you don't even realize are a result of a communication failure. When I have a design disagreement with a developer that I know is intelligent and has the same project goals in mind as I do, I immediately assume there is a misunderstanding somewhere and work with the other developer to verify the assumptions we are basing our positions on. The majority of the time we find a point or two where we misunderstood one another. Once we correct those misunderstandings, an obvious solution that we both agree upon becomes apparent. Had I not sought out the misunderstanding, we would not have been able to agree and it could have damaged our relationship.
 
-Someone has said (reference?) "Communication is something the listener does" (verify quote with Manager Tools). You can speak about some concept to another person, but if they don't understand what you said, no communication has occurred. Communication is the act of transferring a concept from your understanding to their understanding. In the end, if they understand the same thing you do, communication has occurred (should I delete this sentence minus the "In the end," part?). If they do not understand the concept, communication has not occurred. If what they understand is different from what you understand, miscommunication has occurred. Miscommunication is far more dangerous than a lack of communication because it goes undetected. The listener/reader thinks they understand correctly and may take action based on that misinformation with unknown repercussions on the project. If no communication occurred, the listener at least knows that they did not understand and won't act on false information, but may ask more questions to learn (reword this).
+Someone has said (reference?) "Communication is something the listener does" (verify quote with Manager Tools). You can speak about some concept to another person, but if they don't understand what you said, no communication has occurred. Communication is the act of transferring a concept from your understanding to their understanding (maybe move this sentence). However, if they understand the same thing you do, communication has occurred.  If what they understand is different from what you understand, miscommunication has occurred. Miscommunication is far more dangerous than a lack of communication because it goes undetected. The listener/reader thinks they understand correctly and may take action based on that misinformation with unknown repercussions on the project. If no communication occurred, the listener at least knows that they did not understand and won't act on false information, but may ask more questions to learn (reword this paragraph perhaps). (3 levels…communication, no-communication, miscommunication)
 
 This book is written assuming you are a developer. If this is true, then you probably spend more time talking to a computer than to people. While we might wish that people are as easy to talk to as computers--just say what you mean and be done--they aren't. People require a lot more care and attention than computers. You often need to consider things outside the context of your communication when dealing with people. (example of how you may want to communicate differently based on external contexts).
 
 ### Types of communication. 
 
 #### Face to Face
-Highest bandwidth communication (quick feedback with body language, + ability to question) This is why colocation is a big deal in agile.
+Highest bandwidth communication (quick feedback with body language, + ability to question) This is why colocation is a big deal in agile. (define term colocation…refer to agile section for agile)
 Mention reading people....expressions and body language, etc. 
 Face 2 Face is two way communication even when only one person is talking
 
